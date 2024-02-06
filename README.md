@@ -83,7 +83,7 @@ To clone: git clone https://github.com/your-username/repository-name.git
 ## Screenshot
 ![Svg Logo Maker command-line](/images/svg_logo_maker_first.png)
 
-![Svg Logo Maker jest test](/images/README_generator_first.png)
+![Svg Logo Maker jest test](/images/svg_logo_maker_jest.png)
 
 ![Svg Logo Maker Circle](/examples/logo_svg_circle.png)
 
