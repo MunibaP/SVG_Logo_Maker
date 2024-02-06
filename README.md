@@ -60,7 +60,7 @@ The technologies I used in this challenge includes:
 3. Inquirer Package
 4. Jest Package
 5. Visual Studio Code(VS-code)
-6. Github: Github was used to create a repository which includes the links to the projects, index.js, package.json, and the README file.
+6. Github: Github was used to create a repository which includes the links to the projects, index.js, package.json, inquirer package, jest package and the README file.
 7. Gitlab: Gitlab was used to clone the project to our laptop.
 
 ## Installation
@@ -71,13 +71,13 @@ To clone: git clone https://github.com/your-username/repository-name.git
 2. Install Node.js [v20.11.0]
 3. Install Jest [v29.7.0]
 4. Open the cloned repository in a visual studio code. 
-5. Open integrated terminal on index.js in order to run "npm i inquirer@8.2.4" on the command line to install inquirer package, jest packing using the command "npm install jest --save-dev. In addition, create a gitignore file, which should include node_modules.
+5. Open integrated terminal on index.js in order to run "npm i inquirer@8.2.4" on the command line to install inquirer package, jest packing using the command "npm install jest --save-dev. In addition, create a gitignore file, which should includes node_modules.
 
 ## Usage
 1. Open the cloned repostory in a source code editor(visual studio code). 
 2. Open integrated terminal on index.js. 
-3. Enter "node index.js n command line. 
-4. Presented with npm inquirer questions through sequential order within directory - Users are required to input essential information in order to generate a shape. 
+3. Enter "node index.js in command line. 
+4. Presented with npm inquirer questions through sequential order within directory - Users are required to input essential information in order to generate a logo shape. 
 5. Once completed a SVG file named "logo.svg" will be created.
 
 ## Screenshot
@@ -108,7 +108,7 @@ To run unit testing, open the terminal, and use the command npm run test.
 
 ## Links
 
-[Video Link]()
+[Video Link](https://drive.google.com/file/d/1WNWaVTRO_psxRfSR29JP068MONVcdliW/view?usp=sharing)
   
 ## Contact Information
 I appreciate and encourage any questions you may have. Feel free to reach out for further information.
@@ -122,9 +122,4 @@ I appreciate and encourage any questions you may have. Feel free to reach out fo
 
 Please refer to [MIT]() to acquire details about this license
 
-
-<div align ="center">
-
 ### Copyright © 2024 Muniba Pervez
-
-</div>
